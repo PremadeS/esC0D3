@@ -1,4 +1,5 @@
 # esC0D3
+**Text Editor** mostly *focused* on **c++**
 
 ## To Run:
 
@@ -14,7 +15,6 @@ make
 ./TextEdit
 ```
 
-**Text Editor** mostly *focused* on **c++**
 
 <img src="https://i.imgur.com/wOySUku.png" alt="esC0D3" style="width: 50%; height: auto;">
 
